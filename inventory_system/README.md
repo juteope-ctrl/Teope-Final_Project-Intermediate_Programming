@@ -61,7 +61,7 @@ No third-party libraries required.
 ---
 
 # Project Structure
-
+```
 inventory_system/
 ├── src/
 │   ├── main.py            # Main application entry point and menu handler
@@ -75,6 +75,7 @@ inventory_system/
 ├── requirements.txt       # Lists project dependencies (none for this project)
 ├── .gitignore             # Specifies files/folders to ignore in Git
 └── README.md              # This documentation file
+```
 
 ---
 
@@ -133,7 +134,7 @@ python src/main.py
 ---
 
 # Sample Menu
-
+```
 =====================================================
      INVENTORY MANAGEMENT SYSTEM  v1.0
      CLI Application - Python Final Project
@@ -154,7 +155,7 @@ MAIN MENU
 0. Exit
 -----------------------------------------------------
 Enter your choice:
-
+```
 
 ---
 
