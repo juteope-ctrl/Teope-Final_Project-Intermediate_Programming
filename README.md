@@ -223,7 +223,8 @@ https://youtu.be/1KZ9Rqx0GbU?si=hgbpbzvELFrgrPOi
 
 # Author
 Name: Teope, Juzzua Phillip A.  
-1st Year BS Computer Science Student Section 1B
+Year & Section: BSCS - 1B
+
 ---
 
 # License
