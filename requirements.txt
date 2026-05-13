@@ -1,0 +1,5 @@
+# No third-party dependencies required.
+# This project uses only Python 3.8+ standard library modules:
+#   csv, os, sys, datetime, typing
+#
+# Python version: >= 3.8+
